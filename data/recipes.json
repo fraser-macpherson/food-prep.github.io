@@ -4,15 +4,17 @@
     "Spaghetti Bolognese": {
       "ingredients": [
         "250g spaghetti",
-        "400g beef mince",
-        "1 onion, diced",
+        "500g beef mince",
+        "1 brown onion, diced",
         "2 garlic cloves, crushed",
         "400g tinned tomatoes",
         "2 tbsp tomato puree",
         "1 carrot, diced",
+        "Salt, Peper",
+        "Beef Stock",
         "Parmesan, to serve"
       ],
-      "instructions": "Brown the mince, soften the onion, carrot and garlic, add tomatoes and puree, simmer 20 mins. Serve over cooked spaghetti with parmesan.",
+      "instructions": "Brown the mince, soften the onion, carrot and garlic, add tomatoes, puree, stock and seasoning. Simmer 20 mins. Serve over cooked spaghetti with parmesan.",
       "vegetarian": false
     },
     "Chicken Curry": {
